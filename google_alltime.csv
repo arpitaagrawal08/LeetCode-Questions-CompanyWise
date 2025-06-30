@@ -2,16 +2,16 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 388,Longest Absolute File Path,41.8%,Medium,5.913085890375435, https://leetcode.com/problems/longest-absolute-file-path
 683,K Empty Slots,35.6%,Hard,5.780765145104477, https://leetcode.com/problems/k-empty-slots
 681,Next Closest Time,45.0%,Medium,5.648444399833518, https://leetcode.com/problems/next-closest-time
-1,Two Sum,45.6%,Easy,5.644982903520936, https://leetcode.com/problems/two-sum
+1,Two Sum,done,Easy,5.644982903520936, https://leetcode.com/problems/two-sum
 929,Unique Email Addresses,67.4%,Easy,5.641251480795916, https://leetcode.com/problems/unique-email-addresses
 904,Fruit Into Baskets,42.5%,Medium,5.622005350773675, https://leetcode.com/problems/fruit-into-baskets
 482,License Key Formatting,43.1%,Easy,5.489684605502716, https://leetcode.com/problems/license-key-formatting
 308,Range Sum Query 2D - Mutable,35.6%,Hard,5.479895265007681, https://leetcode.com/problems/range-sum-query-2d-mutable
-1007,Minimum Domino Rotations For Equal Row,50.0%,Medium,5.347574519736722, https://leetcode.com/problems/minimum-domino-rotations-for-equal-row
+1007,Minimum Domino Rotations For Equal Row,done,Medium,5.347574519736722, https://leetcode.com/problems/minimum-domino-rotations-for-equal-row
 843,Guess the Word,46.1%,Hard,5.215253774465763, https://leetcode.com/problems/guess-the-word
 288,Unique Word Abbreviation,21.9%,Medium,5.0829330291948045, https://leetcode.com/problems/unique-word-abbreviation
 489,Robot Room Cleaner,69.7%,Hard,4.950612283923846, https://leetcode.com/problems/robot-room-cleaner
-399,Evaluate Division,51.6%,Medium,4.9331279496887595, https://leetcode.com/problems/evaluate-division
+399,Evaluate Division,done,Medium,4.9331279496887595, https://leetcode.com/problems/evaluate-division
 975,Odd Even Jump,42.2%,Hard,4.89330238409204, https://leetcode.com/problems/odd-even-jump
 686,Repeated String Match,32.3%,Easy,4.836325284003677, https://leetcode.com/problems/repeated-string-match
 418,Sentence Screen Fitting,32.6%,Medium,4.781933322576393, https://leetcode.com/problems/sentence-screen-fitting
@@ -27,24 +27,24 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 844,Backspace String Compare,46.4%,Easy,4.130136980449563, https://leetcode.com/problems/backspace-string-compare
 642,Design Search Autocomplete System,44.7%,Hard,4.121348378880914, https://leetcode.com/problems/design-search-autocomplete-system
 340,Longest Substring with At Most K Distinct Characters,44.1%,Hard,4.118703458748877, https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
-222,Count Complete Tree Nodes,46.8%,Medium,4.1048397532413095, https://leetcode.com/problems/count-complete-tree-nodes
+222,Count Complete Tree Nodes,done,Medium,4.1048397532413095, https://leetcode.com/problems/count-complete-tree-nodes
 568,Maximum Vacation Days,40.8%,Hard,4.053081248726602, https://leetcode.com/problems/maximum-vacation-days
-947,Most Stones Removed with Same Row or Column,55.2%,Medium,4.02302290047393, https://leetcode.com/problems/most-stones-removed-with-same-row-or-column
+947,Most Stones Removed with Same Row or Column,done,Medium,4.02302290047393, https://leetcode.com/problems/most-stones-removed-with-same-row-or-column
 410,Split Array Largest Sum,44.5%,Hard,4.009588512914069, https://leetcode.com/problems/split-array-largest-sum
 857,Minimum Cost to Hire K Workers,49.6%,Hard,3.9718459789720417, https://leetcode.com/problems/minimum-cost-to-hire-k-workers
-939,Minimum Area Rectangle,51.8%,Medium,3.9363752311087805, https://leetcode.com/problems/minimum-area-rectangle
-42,Trapping Rain Water,48.9%,Hard,3.921059878261158, https://leetcode.com/problems/trapping-rain-water
+939,Minimum Area Rectangle,done,Medium,3.9363752311087805, https://leetcode.com/problems/minimum-area-rectangle
+42,Trapping Rain Water,done,Hard,3.921059878261158, https://leetcode.com/problems/trapping-rain-water
 218,The Skyline Problem,34.6%,Hard,3.886010166884179, https://leetcode.com/problems/the-skyline-problem
 248,Strobogrammatic Number III,39.6%,Hard,3.8637103391787333, https://leetcode.com/problems/strobogrammatic-number-iii
 56,Merge Intervals,39.3%,Medium,3.8503178295937968, https://leetcode.com/problems/merge-intervals
 394,Decode String,50.0%,Medium,3.8265446136122376, https://leetcode.com/problems/decode-string
-200,Number of Islands,46.8%,Medium,3.801814667432651, https://leetcode.com/problems/number-of-islands
+200,Number of Islands,done,Medium,3.801814667432651, https://leetcode.com/problems/number-of-islands
 296,Best Meeting Point,57.5%,Hard,3.780744266551272, https://leetcode.com/problems/best-meeting-point
 346,Moving Average from Data Stream,70.9%,Easy,3.7595613321751515, https://leetcode.com/problems/moving-average-from-data-stream
 774,Minimize Max Distance to Gas Station,46.9%,Hard,3.708055318619307, https://leetcode.com/problems/minimize-max-distance-to-gas-station
 351,Android Unlock Patterns,48.4%,Medium,3.70074902966932, https://leetcode.com/problems/android-unlock-patterns
 66,Plus One,43.0%,Easy,3.6933051958019916, https://leetcode.com/problems/plus-one
-146,LRU Cache,33.2%,Medium,3.6895564583242564, https://leetcode.com/problems/lru-cache
+146,LRU Cache,done,Medium,3.6895564583242564, https://leetcode.com/problems/lru-cache
 734,Sentence Similarity,42.1%,Easy,3.6779039500629285, https://leetcode.com/problems/sentence-similarity
 359,Logger Rate Limiter,70.8%,Easy,3.6745485318267703, https://leetcode.com/problems/logger-rate-limiter
 425,Word Squares,47.7%,Hard,3.649664857149902, https://leetcode.com/problems/word-squares
