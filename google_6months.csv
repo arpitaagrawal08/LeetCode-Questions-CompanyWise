@@ -44,7 +44,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1031,Maximum Sum of Two Non-Overlapping Subarrays,57.9%,Medium,0.2928670946738281, https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays
 329,Longest Increasing Path in a Matrix,43.4%,Hard,0.29062882263712253, https://leetcode.com/problems/longest-increasing-path-in-a-matrix
 1326,Minimum Number of Taps to Open to Water a Garden,43.6%,Hard,0.2786048543006643, https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
-399,Evaluate Division,51.6%,Medium,0.27239954676797734, https://leetcode.com/problems/evaluate-division
+399,Evaluate Division,done,Medium,0.27239954676797734, https://leetcode.com/problems/evaluate-division
 1140,Stone Game II,63.3%,Medium,0.2655409465745674, https://leetcode.com/problems/stone-game-ii
 394,Decode String,50.0%,Medium,0.2586674025861649, https://leetcode.com/problems/decode-string
 736,Parse Lisp Expression,47.5%,Hard,0.25131442828090605, https://leetcode.com/problems/parse-lisp-expression
@@ -77,10 +77,10 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 792,Number of Matching Subsequences,47.4%,Medium,0.18571714579509285, https://leetcode.com/problems/number-of-matching-subsequences
 840,Magic Squares In Grid,37.3%,Easy,0.18533360726394627, https://leetcode.com/problems/magic-squares-in-grid
 1466,Reorder Routes to Make All Paths Lead to the City Zero,63.5%,Medium,0.18400364297693944, https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero
-221,Maximal Square,37.7%,Medium,0.1833146055349465, https://leetcode.com/problems/maximal-square
+221,Maximal Square,done,Medium,0.1833146055349465, https://leetcode.com/problems/maximal-square
 871,Minimum Number of Refueling Stops,31.4%,Hard,0.1769307081590782, https://leetcode.com/problems/minimum-number-of-refueling-stops
 1197,Minimum Knight Moves,36.1%,Medium,0.17260355263083088, https://leetcode.com/problems/minimum-knight-moves
-127,Word Ladder,29.6%,Medium,0.1667080439422554, https://leetcode.com/problems/word-ladder
+127,Word Ladder,done,Medium,0.1667080439422554, https://leetcode.com/problems/word-ladder
 560,Subarray Sum Equals K,43.9%,Medium,0.1665261146132014, https://leetcode.com/problems/subarray-sum-equals-k
 963,Minimum Area Rectangle II,50.9%,Medium,0.16635770580494058, https://leetcode.com/problems/minimum-area-rectangle-ii
 715,Range Module,38.5%,Hard,0.1636294237818021, https://leetcode.com/problems/range-module
@@ -127,15 +127,15 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1244,Design A Leaderboard,60.7%,Medium,0.08286311601350513, https://leetcode.com/problems/design-a-leaderboard
 911,Online Election,50.4%,Medium,0.08118045667883657, https://leetcode.com/problems/online-election
 250,Count Univalue Subtrees,52.0%,Medium,0.07975881838845024, https://leetcode.com/problems/count-univalue-subtrees
-2,Add Two Numbers,33.9%,Medium,0.0795615789623275, https://leetcode.com/problems/add-two-numbers
+2,Add Two Numbers,done,Medium,0.0795615789623275, https://leetcode.com/problems/add-two-numbers
 128,Longest Consecutive Sequence,45.1%,Hard,0.0786603197723907, https://leetcode.com/problems/longest-consecutive-sequence
 66,Plus One,43.0%,Easy,0.07852093407377625, https://leetcode.com/problems/plus-one
 166,Fraction to Recurring Decimal,21.6%,Medium,0.0782795570551556, https://leetcode.com/problems/fraction-to-recurring-decimal
 830,Positions of Large Groups,49.6%,Easy,0.07775936469913404, https://leetcode.com/problems/positions-of-large-groups
-904,Fruit Into Baskets,42.5%,Medium,0.07767124189113186, https://leetcode.com/problems/fruit-into-baskets
+904,Fruit Into Baskets,done,Medium,0.07767124189113186, https://leetcode.com/problems/fruit-into-baskets
 269,Alien Dictionary,33.3%,Hard,0.0770322180463687, https://leetcode.com/problems/alien-dictionary
-778,Swim in Rising Water,53.1%,Hard,0.07651914983419623, https://leetcode.com/problems/swim-in-rising-water
-1007,Minimum Domino Rotations For Equal Row,50.0%,Medium,0.07630819306332431, https://leetcode.com/problems/minimum-domino-rotations-for-equal-row
+778,Swim in Rising Water,done,Hard,0.07651914983419623, https://leetcode.com/problems/swim-in-rising-water
+1007,Minimum Domino Rotations For Equal Row,done,Medium,0.07630819306332431, https://leetcode.com/problems/minimum-domino-rotations-for-equal-row
 1237,Find Positive Integer Solution for a Given Equation,69.7%,Easy,0.07536521894921006, https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation
 480,Sliding Window Median,37.2%,Hard,0.0743529801177063, https://leetcode.com/problems/sliding-window-median
 639,Decode Ways II,26.6%,Hard,0.07424558998921052, https://leetcode.com/problems/decode-ways-ii
@@ -146,7 +146,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 271,Encode and Decode Strings,31.5%,Medium,0.07197349962508924, https://leetcode.com/problems/encode-and-decode-strings
 1074,Number of Submatrices That Sum to Target,60.4%,Hard,0.07120444629179161, https://leetcode.com/problems/number-of-submatrices-that-sum-to-target
 133,Clone Graph,34.8%,Medium,0.07095173597228444, https://leetcode.com/problems/clone-graph
-200,Number of Islands,46.8%,Medium,0.06985103785996453, https://leetcode.com/problems/number-of-islands
+200,Number of Islands,done,Medium,0.06985103785996453, https://leetcode.com/problems/number-of-islands
 1102,Path With Maximum Minimum Value,49.2%,Medium,0.06680279511160087, https://leetcode.com/problems/path-with-maximum-minimum-value
 731,My Calendar II,49.1%,Medium,0.06453852113757116, https://leetcode.com/problems/my-calendar-ii
 554,Brick Wall,50.0%,Medium,0.0639195177132874, https://leetcode.com/problems/brick-wall
@@ -159,12 +159,12 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 968,Binary Tree Cameras,37.5%,Hard,0.05790329283155908, https://leetcode.com/problems/binary-tree-cameras
 1218,Longest Arithmetic Subsequence of Given Difference,44.6%,Medium,0.05675281659244948, https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference
 218,The Skyline Problem,34.6%,Hard,0.0564413109049518, https://leetcode.com/problems/the-skyline-problem
-96,Unique Binary Search Trees,52.9%,Medium,0.056410171529350385, https://leetcode.com/problems/unique-binary-search-trees
+96,Unique Binary Search Trees,done,Medium,0.056410171529350385, https://leetcode.com/problems/unique-binary-search-trees
 41,First Missing Positive,32.0%,Hard,0.056273635982108605, https://leetcode.com/problems/first-missing-positive
 279,Perfect Squares,47.4%,Medium,0.05625780265009439, https://leetcode.com/problems/perfect-squares
 295,Find Median from Data Stream,44.3%,Hard,0.05495888428075748, https://leetcode.com/problems/find-median-from-data-stream
 735,Asteroid Collision,41.0%,Medium,0.05479154882968245, https://leetcode.com/problems/asteroid-collision
-15,3Sum,26.8%,Medium,0.05357467464947331, https://leetcode.com/problems/3sum
+15,3Sum,done,Medium,0.05357467464947331, https://leetcode.com/problems/3sum
 1095,Find in Mountain Array,35.8%,Hard,0.053560323833736816, https://leetcode.com/problems/find-in-mountain-array
 1229,Meeting Scheduler,52.7%,Medium,0.053560323833736816, https://leetcode.com/problems/meeting-scheduler
 63,Unique Paths II,34.6%,Medium,0.05324937607387791, https://leetcode.com/problems/unique-paths-ii
@@ -172,24 +172,24 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 681,Next Closest Time,45.0%,Medium,0.05045206096038863, https://leetcode.com/problems/next-closest-time
 382,Linked List Random Node,52.1%,Medium,0.05045206096038863, https://leetcode.com/problems/linked-list-random-node
 282,Expression Add Operators,35.5%,Hard,0.049982640867735496, https://leetcode.com/problems/expression-add-operators
-105,Construct Binary Tree from Preorder and Inorder Traversal,48.8%,Medium,0.049549146900389536, https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+105,Construct Binary Tree from Preorder and Inorder Traversal,done,Medium,0.049549146900389536, https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
 259,3Sum Smaller,47.6%,Medium,0.04951506452738057, https://leetcode.com/problems/3sum-smaller
 981,Time Based Key-Value Store,53.1%,Medium,0.049406315387071284, https://leetcode.com/problems/time-based-key-value-store
 307,Range Sum Query - Mutable,34.6%,Medium,0.04935211978972769, https://leetcode.com/problems/range-sum-query-mutable
 152,Maximum Product Subarray,31.7%,Medium,0.04922388062576129, https://leetcode.com/problems/maximum-product-subarray
-593,Valid Square,43.1%,Medium,0.048671406375812236, https://leetcode.com/problems/valid-square
+593,Valid Square,done,Medium,0.048671406375812236, https://leetcode.com/problems/valid-square
 759,Employee Free Time,66.3%,Hard,0.04861224405509378, https://leetcode.com/problems/employee-free-time
 226,Invert Binary Tree,65.0%,Easy,0.04851395922360755, https://leetcode.com/problems/invert-binary-tree
 388,Longest Absolute File Path,41.8%,Medium,0.04849434993861047, https://leetcode.com/problems/longest-absolute-file-path
 247,Strobogrammatic Number II,47.6%,Medium,0.04757139497530258, https://leetcode.com/problems/strobogrammatic-number-ii
 773,Sliding Puzzle,59.3%,Hard,0.0470675108579858, https://leetcode.com/problems/sliding-puzzle
 689,Maximum Sum of 3 Non-Overlapping Subarrays,46.3%,Hard,0.04625101765075567, https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays
-692,Top K Frequent Words,51.8%,Medium,0.046074115337669586, https://leetcode.com/problems/top-k-frequent-words
+692,Top K Frequent Words,done,Medium,0.046074115337669586, https://leetcode.com/problems/top-k-frequent-words
 987,Vertical Order Traversal of a Binary Tree,36.6%,Medium,0.04561794346101633, https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
 205,Isomorphic Strings,39.8%,Easy,0.045397866271290506, https://leetcode.com/problems/isomorphic-strings
 325,Maximum Size Subarray Sum Equals k,46.8%,Medium,0.04495138786226632, https://leetcode.com/problems/maximum-size-subarray-sum-equals-k
 78,Subsets,62.0%,Medium,0.044263005655043326, https://leetcode.com/problems/subsets
-525,Contiguous Array,42.8%,Medium,0.04390949261556855, https://leetcode.com/problems/contiguous-array
+525,Contiguous Array,done,Medium,0.04390949261556855, https://leetcode.com/problems/contiguous-array
 280,Wiggle Sort,63.8%,Medium,0.04362742017962607, https://leetcode.com/problems/wiggle-sort
 524,Longest Word in Dictionary through Deleting,48.4%,Medium,0.04357988070402507, https://leetcode.com/problems/longest-word-in-dictionary-through-deleting
 980,Unique Paths III,73.3%,Hard,0.04348511193973883, https://leetcode.com/problems/unique-paths-iii
